@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Date/Time: 2025-06-06 21:02:21
+User: ron123
+Items Purchased: 
+- J1 - Bae Burger Qty: 1 | Price: Php45.00 | Subtotal: Php45.00
+- J2 - Bae Fries Qty: 1 | Price: Php35.00 | Subtotal: Php35.00
+- J3 - Choco SunBae Qty: 2 | Price: Php40.00 | Subtotal: Php80.00
+- J4 - Chicken Bae Qty: 6 | Price: Php79.00 | Subtotal: Php474.00
+Total Amount: Php634.00
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Date/Time: 2025-06-06 21:04:10
+User: joseph890
+Items Purchased: 
+- J1 - Bae Burger Qty: 2 | Price: Php45.00 | Subtotal: Php90.00
+- J2 - Bae Fries Qty: 2 | Price: Php35.00 | Subtotal: Php70.00
+- J4 - Chicken Bae Qty: 2 | Price: Php79.00 | Subtotal: Php158.00
+- J3 - Choco SunBae Qty: 10 | Price: Php40.00 | Subtotal: Php400.00
+Total Amount: Php718.00
+-------------------------------------------------------------------------------
